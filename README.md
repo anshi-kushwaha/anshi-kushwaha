@@ -1,16 +1,11 @@
-## Hi there 👋
+### Hi there, I'm Anshi Kushwaha
+🎓Fresher| Aspiring Software Developer from Kanpur, UP
+🌱Currently learning Web Development - HTML, CSS, Javascript 
+💡Passionate about learning new technologies and building projects
+📫Reach me at: anshikushwaha.me@gmail.com 
+✨Eager to start my career as a developer!
 
-<!--
-**anshi-kushwaha/anshi-kushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###🛠️Learning
+-HTML,CSS,Javascript 
+-Git & Github
+-Problem Solving
